@@ -1,0 +1,8 @@
+.feed{
+    /* flex:5.5; */
+    display: flex;
+}
+
+.feedWrapper{
+    flex: 14;
+}
